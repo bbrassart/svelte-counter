@@ -6,7 +6,7 @@
 <section class="w-full mt-8">
   <div class="text-center">
     <button
-      class="bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded"
+      class="bg-teal-500 hover:bg-teal-700 text-white py-2 px-4 rounded"
       on:click={reset}>Reset counter</button
     >
   </div>
